@@ -110,13 +110,13 @@ public class Main {
                 System.out.println(i);
             
         }
-         */
+        
         
         
         int a,b,c;
         double x1, x2, delta;
         
-        a=1; b=2; c=1;
+        a=1; b=3; c=1;
         
         delta=b*b-4*a*c;
         
@@ -133,6 +133,10 @@ public class Main {
                 x2= (-b + Math.sqrt(delta))/2*a;
                 System.out.println("delta="+delta+" x1="+x1+" x2="+x2);
             }
+         */
+        
+        
+        
         
         
         
